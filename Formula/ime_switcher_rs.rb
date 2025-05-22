@@ -4,8 +4,8 @@
 class ImeSwitcherRs < Formula
   desc ""
   homepage "https://github.com/noe132/ime_switcher_rs"
-  url "https://github.com/noe132/ime_switcher_rs/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "387ad8ec041f5269569c4b7a4fe074d3ec6c9b3ef092e6f9bdcd56cbe506fec4"
+  url "https://github.com/noe132/ime_switcher_rs/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "567f989de046bed688ad0b269fc27d10525fef84faa18b10d06ba7a95541fcc4"
   license "MIT"
 
   depends_on "rust" => :build
